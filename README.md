@@ -1,13 +1,23 @@
-# Clinica Dental UDB
+# ProyectoDSM2022
 
-  Creacion de una aplicacion capaz de iniciar sesion dependiendo de los usuarios, creas, actualizar y listar producto, generar factura y crear reportes
+_Creacion de una apliacion para una Clinica Dental que pueda hacer diversas funciones_
 
-Integrantes:
-  William Ernesto Ramos Valladares
-  Javier Eliseo Gutiérrez Flores
-  Carlos Eduardo Siliezar Colocho
-  Kenya Elizabeth Parada Palma
-  
-  Link de acceso a TRELLO
-    https://trello.com/b/Xl7atr7P/clinicadental
- 
+
+## Herramientas 🛠️
+
+* [Android Studio] https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwppSEBhCGARIsANIs4p4EyyCZX7TunXEly893f1rdPBxQZQxE0e-v119AxRyg1cffFvvUY2EaAjJsEALw_wcB&gclsrc=aw.ds - IDE de desarrollo
+
+## Programadores
+
+* **William Ernesto Ramos Valladares - RV200068** - **Programación, diseño, lógica y manuales**
+* **Javier Eliseo Gutiérrez Flores** - **Programación, diseño, lógica y manuales**
+* **Carlos Eduardo Siliezar Colocho** - **Programación, diseño, lógica y manuales**
+* **Gerardo Arturo Jerez Elías** - **Programación, diseño, lógica y manuales**
+* **Kenya Elizabeth Parada Palma** - **Programación, diseño, lógica y manuales**
+
+## Licencia 
+
+## Enlaces de interés 
+
+* [Tablero en Trello] https://trello.com/b/Xl7atr7P/clinicadental
+
