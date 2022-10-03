@@ -3,7 +3,7 @@
 _Creacion de una apliacion para una Clinica Dental que pueda hacer diversas funciones_
 
 
-## Herramientas 🛠️
+## Herramientas 
 
 * [Android Studio] https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwppSEBhCGARIsANIs4p4EyyCZX7TunXEly893f1rdPBxQZQxE0e-v119AxRyg1cffFvvUY2EaAjJsEALw_wcB&gclsrc=aw.ds - IDE de desarrollo
 
